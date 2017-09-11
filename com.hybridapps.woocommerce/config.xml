@@ -8,7 +8,6 @@
   <access origin="*"/>
   <allow-navigation href="*" />
   <plugin name="cordova-plugin-whitelist" />
-<gap:plugin name="org.apache.cordova.inappbrowser" />
   <plugin name="com.paypal.cordova.mobilesdk" source="npm" />
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>
