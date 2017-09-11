@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.hybridapps.woocommerce" version="1.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.hybridapps.woocommerce" version="1.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
   <name>Ionic WooCommerce API</name>
   <description>
     Ionic WooCommerce API Application is an eCommerce Ionic Application compatible with WooCommerce.
@@ -8,6 +8,7 @@
   <access origin="*"/>
   <allow-navigation href="*" />
   <plugin name="cordova-plugin-whitelist" />
+<gap:plugin name="org.apache.cordova.inappbrowser" />
   <plugin name="com.paypal.cordova.mobilesdk" source="npm" />
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>
