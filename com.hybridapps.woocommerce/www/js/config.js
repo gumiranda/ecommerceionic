@@ -1,7 +1,7 @@
 angular.module("woocommerce-api").constant("CONFIG", {
 
     // The url of your domain, both HTTP and HTTPS are supported.
-    site_url: 'http://www.heliexpress.com.br/app/produto/ionic/woocommerce-api',
+    site_url: 'http://www.heliexpress.com.br/app/produtos/ionic/woocommerce-api',
     // site_url: 'http://localhost:8888/mobile/woocommerce-api/wordpress',
 
     // Max period of time to wait for reply from the server, defined in milliseconds.
